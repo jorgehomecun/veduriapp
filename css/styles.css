@@ -1,0 +1,41 @@
+body
+{
+    background-color: #8FCFEC;
+    font-family: Montserrat, Arial;
+}
+
+.div-form
+{
+    padding: 16px;
+}
+
+.avatar-container
+{
+    text-align: center;
+    margin: 14px 0 12px 0;
+}
+
+.avatar 
+{
+    width: 30%;
+    border-radius: 50%;
+}
+
+.central{
+    padding: 40px;
+    margin:auto;
+    background: #FAFBFE;
+    box-shadow: 0px 0px 30px grey;
+}
+
+.waves-effect.waves-brown .waves-ripple {
+    /* color boton*/
+     background-color: rgba(34, 11, 243, 0.65);
+   }
+
+.logo{
+    font-size:3rem;
+    color: white;
+     
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
